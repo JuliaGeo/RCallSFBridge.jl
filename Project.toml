@@ -9,6 +9,7 @@ GeoInterface = "cf35fbd7-0cd7-5166-be24-54bfbe79505f"
 RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
 
 [compat]
+RCall = "0.14"
 julia = "1.6.7"
 
 [extras]
